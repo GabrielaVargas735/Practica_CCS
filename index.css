@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+h1 {
+    color: #0B5B67;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p span { color: red; }
+.destacado {
+    color: red;
+}
+body{
+    background-color: black;
+}
+.resaltar{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
